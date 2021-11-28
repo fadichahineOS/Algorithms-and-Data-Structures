@@ -30,8 +30,13 @@ public class RegularLinkedList {
     LinkedList llist = new LinkedList();
 
     llist.addToFront(6);
+    llist.addToFront(7);
+    llist.addToFront(8);
+    llist.addToFront(9);
+    llist.addToFront(10);
 
-    System.out.println(llist.head.data);
+
+    System.out.println();
 
   }
 }
