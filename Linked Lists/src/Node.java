@@ -48,7 +48,6 @@ public class Node {
         if(right != null){
             right.traverseInOrder();
         }
-        System.out.println();
     }
 
 
